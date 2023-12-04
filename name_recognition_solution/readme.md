@@ -20,6 +20,9 @@ The model training process involves the following steps:
 ## Inference
 To use the trained model for inference, you can refer to the inference script in this repository. 
 
+## ISSUE
+Unfortunately, the model doesn't work as expected. The guess - I should look into labeling logic. If I have change to redo it, I would train custom model on dataset of mountains name from here - https://github.com/You-now-Who/dataset/blob/main/List%20of%20Mounains/Mountain.csv.
+
 # Very important
 Please, download 'very_important_image.jpg'.
 
